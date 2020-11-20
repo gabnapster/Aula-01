@@ -15,6 +15,7 @@ namespace Aula_01
             decimal numero2 = Convert.ToDecimal(Console.ReadLine());
 
 
+
             while (retornaAoInicio)
             {
                 // EX. 1 - CRIAR UM PROGRAMA QUE SIMULA UMA CALCULADORA.
