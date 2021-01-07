@@ -28,7 +28,7 @@ namespace Aula_01
                 //APOS O USUARIO INFORMAR A OPERACAO DESEJADA, SOLICITAR QUE INFORME DOIS NUMEROS PARA REALIZAR
                 //A OPERACAO. APOS EXECUTAR, INFORMAR AO USUARIO O RESULTADO
 
-                Console.WriteLine("INFORME A OPERAÇÃO DESEJADA:");
+                Console.WriteLine("INFORME A OPERAÇÃO DESEJADA, POR FAVOR:");
                 Console.WriteLine("+");
                 Console.WriteLine("-");
                 Console.WriteLine("/");
